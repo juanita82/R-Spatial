@@ -1,0 +1,11 @@
+name: Code_Chapters
+title: Code_Chapters
+account: juanita82
+server: shinyapps.io
+appId: 189399
+bundleId: 868291
+url: https://juanita82.shinyapps.io/Code_Chapters/
+when: 1497532444.84525
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: code_chapter1.R|code_chapter2.R|code_chapter3.R|code_chapter4.R
